@@ -1,0 +1,31 @@
+name: Generar serpiente de contribuciones
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # se regenera a diario
+  workflow_dispatch:       # permite ejecutarla manualmente
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Generar SVG (paleta Tokyo Night)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: crisurbina0404
+          outputs: |
+            dist/github-snake.svg?color_snake=70a5fd&color_dots=#ebedf0,#b6d0fb,#70a5fd,#9d8df5,#bf91f3
+            dist/github-snake-dark.svg?color_snake=bf91f3&color_dots=#16161e,#2ac3de,#7aa2f7,#bb9af7,#9ece6a
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
