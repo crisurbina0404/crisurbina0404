@@ -21,12 +21,12 @@
 
 <table>
   <tr>
-    <td width="58%">
+    <td width="80%">
       <p>Estudiante de Ingeniería en Sistemas de Información en <b>Nicaragua</b>, con una convicción: <b>el buen software se escribe entendiendo la máquina que lo ejecuta y el proceso que lo necesita</b>. Por eso combino programación, bases de datos y una curiosidad seria por el hardware.</p>
       <p>Estoy en etapa de prototipado: construyo versiones funcionales, las pruebo, las rompo y las mejoro. Cada repositorio es un laboratorio de aprendizaje deliberado.</p>
     </td>
-    <td width="42%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="340" alt="Animación de alguien programando"/>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="340" alt="Escena de programación animada"/>
     </td>
   </tr>
 </table>
