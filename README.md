@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Colaboraciones-abiertas-A50044?style=for-the-badge&labelColor=0A0E27" alt="Colaboraciones abiertas"/>
 </div>
 
-## <img src="https://api.iconify.design/mdi:card-account-details-outline.svg?color=%23A50044" width="26" align="center" alt=""/> Sobre mí
+## <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/card-account-details-outline.svg" width="26" align="center" alt=""/> Sobre mí
 
 <table>
   <tr>
@@ -33,16 +33,16 @@
 
 | `componente` | `especificación` |
 | :-- | :-- |
-| <img src="https://api.iconify.design/mdi:school-outline.svg?color=%23A50044" width="18"/> **Arquitectura** | Ingeniería en Sistemas de Información — en curso |
-| <img src="https://api.iconify.design/mdi:cpu-64-bit.svg?color=%23A50044" width="18"/> **Procesador** | Python — lógica, scripting y automatización |
-| <img src="https://api.iconify.design/mdi:database-outline.svg?color=%23A50044" width="18"/> **Memoria** | SQL · SQLite — modelado relacional y consultas |
-| <img src="https://api.iconify.design/mdi:monitor.svg?color=%23A50044" width="18"/> **Interfaz** | HTML · CSS · JavaScript · TypeScript |
-| <img src="https://api.iconify.design/mdi:chip.svg?color=%23A50044" width="18"/> **Overclock** | Hardware: ensamblaje, diagnóstico y benchmarks |
-| <img src="https://api.iconify.design/mdi:briefcase-outline.svg?color=%23A50044" width="18"/> **Procesos** | Sistemas empresariales (ERP) y flujos de negocio reales |
-| <img src="https://api.iconify.design/mdi:autorenew.svg?color=%23A50044" width="18"/> **Firmware** | Aprendizaje continuo — iterar, medir, mejorar |
-| <img src="https://api.iconify.design/mdi:soccer.svg?color=%23A50044" width="18"/> **Modo reposo** | Fútbol y exploración de nuevas tecnologías |
+| <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/school-outline.svg" width="18"/> **Arquitectura** | Ingeniería en Sistemas de Información — en curso |
+| <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/cpu-64-bit.svg" width="18"/> **Procesador** | Python — lógica, scripting y automatización |
+| <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/database-outline.svg" width="18"/> **Memoria** | SQL · SQLite — modelado relacional y consultas |
+| <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/monitor.svg" width="18"/> **Interfaz** | HTML · CSS · JavaScript · TypeScript |
+| <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/chip.svg" width="18"/> **Overclock** | Hardware: ensamblaje, diagnóstico y benchmarks |
+| <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/briefcase-outline.svg" width="18"/> **Procesos** | Sistemas empresariales (ERP) y flujos de negocio reales |
+| <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/autorenew.svg" width="18"/> **Firmware** | Aprendizaje continuo — iterar, medir, mejorar |
+| <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/soccer.svg" width="18"/> **Modo reposo** | Fútbol y exploración de nuevas tecnologías |
 
-## <img src="https://api.iconify.design/mdi:code-tags.svg?color=%23A50044" width="26" align="center" alt=""/> Stack tecnológico
+## <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/code-tags.svg" width="26" align="center" alt=""/> Stack tecnológico
 
 <p align="center"><sub><b>LENGUAJES Y WEB</b></sub></p>
 <p align="center">
@@ -62,7 +62,7 @@
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70" title="VS Code" alt="VS Code"/>
 </p>
 
-## <img src="https://api.iconify.design/mdi:folder-star-outline.svg?color=%23A50044" width="26" align="center" alt=""/> Proyectos destacados
+## <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/folder-star-outline.svg" width="26" align="center" alt=""/> Proyectos destacados
 
 <div align="center">
   <a href="https://github.com/crisurbina0404/NicaOrder-ERP">
@@ -76,13 +76,13 @@
   </a>
 </div>
 
-## <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%23A50044" width="26" align="center" alt=""/> Ahora mismo
+## <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/rocket-launch-outline.svg" width="26" align="center" alt=""/> Ahora mismo
 
-- <img src="https://api.iconify.design/mdi:language-python.svg?color=%23A50044" width="16"/> **Backend con Python** — profundizando en APIs y prácticas de código limpio.
-- <img src="https://api.iconify.design/mdi:language-typescript.svg?color=%23A50044" width="16"/> **TypeScript en la práctica** — construyendo Hotelica, un sistema de reservaciones hoteleras.
-- <img src="https://api.iconify.design/mdi:earth.svg?color=%23A50044" width="16"/> **Open source** — preparando mi primera contribución a un proyecto comunitario.
+- <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/language-python.svg" width="16"/> **Backend con Python** — profundizando en APIs y prácticas de código limpio.
+- <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/language-typescript.svg" width="16"/> **TypeScript en la práctica** — construyendo Hotelica, un sistema de reservaciones hoteleras.
+- <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/earth.svg" width="16"/> **Open source** — preparando mi primera contribución a un proyecto comunitario.
 
-## <img src="https://api.iconify.design/mdi:chart-line.svg?color=%23A50044" width="26" align="center" alt=""/> Actividad en GitHub
+## <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/chart-line.svg" width="26" align="center" alt=""/> Actividad en GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=crisurbina0404&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=es&bg_color=0A0E27&title_color=EDBB00&text_color=C9D1D9&icon_color=4D8FD1&ring_color=A50044&border_radius=8" alt="Estadísticas de GitHub"/>
@@ -103,7 +103,7 @@
   <img width="100%" alt="Serpiente comiendo mis contribuciones" src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/output/github-snake.svg">
 </picture>
 
-## <img src="https://api.iconify.design/mdi:handshake-outline.svg?color=%23A50044" width="26" align="center" alt=""/> Conectemos
+## <img src="https://raw.githubusercontent.com/crisurbina0404/crisurbina0404/main/assets/icons/handshake-outline.svg" width="26" align="center" alt=""/> Conectemos
 
 Mis redes y enlaces profesionales están en la **barra lateral** de este perfil. Si compartes el interés por el software, el hardware o quieres intercambiar conocimiento, escríbeme — siempre hay algo que aprender de otra persona.
 
