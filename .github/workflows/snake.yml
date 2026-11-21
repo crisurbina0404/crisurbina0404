@@ -19,8 +19,9 @@ jobs:
         with:
           github_user_name: crisurbina0404
           outputs: |
-            dist/github-snake.svg?color_snake=004D98&color_dots=#ebedf0,#f0a8c4,#d6336c,#a50044,#6d0030
-            dist/github-snake-dark.svg?color_snake=EDBB00&color_dots=#0a0e27,#3d1030,#7a1a4a,#a50044,#d6336c
+            dist/github-snake.svg?color_snake=#EDBB00&color_dots=#ebedf0,#f0a8c4,#d6336c,#a50044,#6d0030
+            dist/github-snake-dark.svg?color_snake=#EDBB00&color_dots=#0a0e27,#3d1030,#7a1a4a,#a50044,#d6336c
+
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
